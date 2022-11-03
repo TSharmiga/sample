@@ -17,3 +17,5 @@ welcome to the club
 added chart
 
 contact details 
+
+about details 
